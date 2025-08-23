@@ -113,7 +113,7 @@ var config = {
         },
         {
             id: '4',
-            alignment: 'left',
+            alignment: 'centered',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/QvV5NzGc/MEF-AAP-027-BAP-2025-07-17-14-14-39.png',
